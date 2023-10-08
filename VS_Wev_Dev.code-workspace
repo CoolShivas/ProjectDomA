@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../Virtual Studio/Web Develop/VS_Wev_Dev"
+		},
+		{
+			"path": "../Virtual Studio/Web Develop/HTML"
+		},
+		{
+			"path": "../Virtual Studio"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HTML"
+	}
+}
